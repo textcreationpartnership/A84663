@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fooles complaint to Gotham colledge, and resolution taken up by free subjects, in and about the city of London and VVestminster, of that society: in the behalfe of themselves, and the priviledges of their hospitall; with their requests, that [brace] Policy, Curiosity, Solicitude, [brace] may be judges. Study, the chiefe warden, Diligence, the atturney generall, and Fame, the beadle of the court.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84663</idno>
+            <idno type="STC">Wing F1419</idno>
+            <idno type="STC">Thomason E246_6</idno>
+            <idno type="STC">ESTC R8771</idno>
+            <idno type="EEBO-CITATION">99873396</idno>
+            <idno type="PROQUEST">99873396</idno>
+            <idno type="VID">125865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fooles complaint to Gotham colledge, and resolution taken up by free subjects, in and about the city of London and VVestminster, of that society: in the behalfe of themselves, and the priviledges of their hospitall; with their requests, that [brace] Policy, Curiosity, Solicitude, [brace] may be judges. Study, the chiefe warden, Diligence, the atturney generall, and Fame, the beadle of the court.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Ridibundus,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>in this present yeare of wits and fancies, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title woodcut of "the foole".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb: 7 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fools and jesters --  England --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125865:1"/>
+            <pb facs="tcp:125865:1" rendition="simple:additions"/>
+            <p> THE FOOLES COMPLAINT TO <hi>GOTHAM COLLEDGE,</hi> And Reſolution taken up by free Subjects, in and about the City of London and VVeſtminſter, of that Society: in the behalfe of themſelves, and the privi<g ref="char:EOLhyphen"/>ledges of their Hoſpitall; with their requeſts, that</p>
+            <list>
+               <item>Policy, may be Judges.</item>
+               <item>Curioſity, may be Judges.</item>
+               <item>Solicitude, may be Judges.</item>
+               <item>
+                  <hi>Study,</hi> the chiefe Warden,</item>
+               <item>
+                  <hi>Diligence,</hi> the Atturney Generall, and</item>
+               <item>
+                  <hi>Fame,</hi> the Beadle of the Court.</item>
+            </list>
+            <figure>
+               <head>The Foole Rids mee</head>
+               <figDesc>woodcut, man riding an ass</figDesc>
+            </figure>
+            <p>London, printed by <hi>Ridibundus,</hi> in this preſent yeare of wits and fancies, 1643.</p>
+            <pb facs="tcp:125865:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125865:2"/>
+            <head>THE FOOLES COMPLAINT TO <hi>GOTHAM COLLEDGE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>E reaſon, abſolute Monarch, and ſole Soveraigne of the world, not acknowledging any Superiour, in any ſort, equall unto you; for the redreſſeneſſe, and reforming of mens manners, againſt the obſtinate and perverſe wil<g ref="char:EOLhyphen"/>fulneſſe of folly, and all other his wickedneſſe, which hath taken ſuch deepe root, and multiplied it ſelfe in that abundance, to our notable hurt and detriment, the prejudice of our Royall Prerogative and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e great dammage of all mankinde: for to avoid thoſe great inco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veniences, with the corruption of ſo dangerous and ſpreading a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nay cauſes that it may not creep more and more upon your loving ſub<g ref="char:EOLhyphen"/>jects (whoſe welfare and ſafety ought to be tendred as your owne <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that it may not dilate it ſelfe any further to their utter undoing, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nall deſtruction) that you will pleaſe to command and ordaine, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to publiſh and proclaime lawes to all thoſe that are alredy <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be borne hereafter in ſucceeding ages, by the power of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rall conſent of your Councell of State, that they be taken and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuch as ſhall be by you eſtabliſhed and confirmed, and that they be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very exactly, religiouſly obſerved, and fully complied withall, both in a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and every the point or parcell herein ſpecified, or contained, as they will anſwer to it at their perill, and incurre that grievous puniſhment to thoſe that ſhall violate and infringe ſuch lawes, as in that caſe you ſhall provide.</p>
+            <p>Moreover, becauſe the firſt thing that you are in your Princely care to conſider of, that all due fitting and convenient proviſion be made for the quicke expedition and good execution of Juſtice, that you will bee pleaſed to nominate and appoint certaine Officers, both of good ſuffi<g ref="char:EOLhyphen"/>ciency and truſt, ſuch as ſhall be requiſite and needfull for this ſo im<g ref="char:EOLhyphen"/>portant a buſineſſe; and therefore to depute, nominate, and aſſigne for
+<pb facs="tcp:125865:3"/> Judges, good policy, curioſity, and ſolicitude, to the end that they, as if it were you your ſelfe, and a repreſenting you in your owne proper perſon, may truely and uprightly adminiſter Juſtice, giving them by vertue of your power full and plenall authority to apprehend, ſet at li<g ref="char:EOLhyphen"/>berty, and puniſh any manner of perſon, or perſons whatſoever, upon juſt cauſe, referring the ſaid Judges to be ordered and directed by your lawes and ordinances, and not to differ from the true intent and mea<g ref="char:EOLhyphen"/>ning of them, to the damnifying of the ſubject, and the diſhonouring of your ſelves. Furthermore, both for the preſent, and ever hereafter, to ſubſtitute as elder brothers of the fraternity, and chiefe wardens of your incorporation, all thoſe that be jealous obſervers, every one ac<g ref="char:EOLhyphen"/>cording to his place and merit, and he that ſhall be moſt jealous may be moſt honoured, that your Atturney Generall may be diligent, and your Beadle that ſhall warne them to the Court fam'd.</p>
+            <p>
+               <label>I.</label>
+            </p>
+            <p>FIrſt of all, therefore any perſon or perſons that ſhall talke to them<g ref="char:EOLhyphen"/>ſelves as they walke in the ſtreets, or at any time when they are a<g ref="char:EOLhyphen"/>lone, or in a houſe p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivate, may be cenſured for fooles three moneths; within which terme of time if they abſteine therefrom, and reforme this their foolery, their puniſhment then to be taken off; but in caſe that they ſhall not amend th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s fault, that ſome three termes of the ſaid time, or thereabouts, may be peremptory ſet downe to be inflicted up<g ref="char:EOLhyphen"/>on them; within which l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mited time they ſhall bring a certificate of their reformation and amendment, upon paine of being held for appro<g ref="char:EOLhyphen"/>ved attained and converted fooles, and accordingly to command your aforeſaid elder brothers and ancients of the Company to finde them guil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and to ſee them afterwards ſeverely puniſhed, as violaters and breakers of the lawes.</p>
+            <p>
+               <label>II.</label>
+            </p>
+            <p>They who ſhall walke along the ſtreets, caſting their cloake under one arme, and ſtretching out their fingers, playing with the wall, and making indentures with their fingers ends, let them be admitted Schol<g ref="char:EOLhyphen"/>lers of your houſe and Colledge: Provided alwaies that they have ſixe moneths of approbation granted unto them, in which you to command them to be reformed: Otherwiſe in default thereof to ordaine that the Warden, Sub-Warden, or Deane of the Colledge, and in their abſence the Senior Fellow, put his coate upon him (according to the cuſtome of the houſe) his cap and his bable, and other ornaments belonging to his degree, and ever afterwards be held a profeſt foole.</p>
+            <pb facs="tcp:125865:3"/>
+            <p>
+               <label>III.</label>
+            </p>
+            <p>Whoſoever walking through any place paved with bricke, or ſtone, ſhall pitch their toes or heeles, walking by a direct line, ſtride or corner of the ſaid bricke or pavement, may be condemned in the ſame puniſh<g ref="char:EOLhyphen"/>ment as aforeſaid.</p>
+            <p>
+               <label>IV.</label>
+            </p>
+            <p>That whoſoever ſhall play at bowles, ſeeing the bowle runne awry, ſhall wry their body with it, thinking to make the bowle run the more on that ſide, and governe it ſelfe as they direct it with theſe mimicke je<g ref="char:EOLhyphen"/>ſtures, if they ſhould be ſeene to practice this their error, we muſt de<g ref="char:EOLhyphen"/>clare them for brothers already profeſt. And further, that the like be al<g ref="char:EOLhyphen"/>ſo underſtood of thoſe who uſe the like Apiſh action, when they ſee ſomething fall downe from ſome high place to the ground, ſhrinking their ſhoulders, wiping their mouths, or turning up the whites of their eyes, that the like cenſure may paſſe.</p>
+            <p>
+               <label>V.</label>
+            </p>
+            <p>Alſo concerning thoſe who wearing Vizards, ſhall under them make ſtrange faces, and geſticulations, either by frowning or ſmiling, or biting of the lip, as if in ſo doing it did really and truely ſeeme unto them that theſe changes of their various countenances did outwardly appeare.</p>
+            <p>
+               <label>VI.</label>
+            </p>
+            <p>They who cutting out ſomething with a bad paire of ſheeres, or a dul edged knife, or any untuned inſtrument, ſhall draw their mouth on ſome ſide like a flounder, lill out their tongue like a calfe, wrinckle up their cheekes, forehead, and eyes, like a ſcorched piece of parchment, and ſuch Idiot-like poſtures, our will and pleaſure is, that they in like manner ſhall take the degree of fooles.</p>
+            <p>
+               <label>VII.</label>
+            </p>
+            <p>Whoſoever expecting the returne of their ſervant ſent of ſome errant, ſhall ſtay waiting for him at the doore or window of his houſe, where hee may ſooneſt ſee him when he comes, thinking that by his ſtaying there he will come the ſooner, to condemne all ſuch to detract and ac<g ref="char:EOLhyphen"/>knowle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge their error, upon paine that in caſe they ſhall refuſe ſo to do, they be ſeverely proceeded againſt.</p>
+            <p>
+               <label>VIII.</label>
+            </p>
+            <p>They who draw their cards with a great deale of leiſure, by a little, and a little, to diſcover at this or that other corner, firſt to view the co<g ref="char:EOLhyphen"/>lour, then after a little pauſing, diſcourſe upon it, arguing the caſe whe<g ref="char:EOLhyphen"/>ther it bee ſuch or ſuch a card, to condemne them to the ſame acknow<g ref="char:EOLhyphen"/>ledgements aforeſaid, but with this condition, that as oft as he, or they
+<pb facs="tcp:125865:4"/> offending in this manner, ſhall ſee an Antient of the houſe, or paſſe by his chamber doore, he ſhall make an acknowledgement of his error by putting off his hat.</p>
+            <p>
+               <label>IX.</label>
+            </p>
+            <p>Whoſoever looking downe from ſome window, or open gallery, ſhall from thence ſpit downe, either thereby to take (as with a plumet) the evenneſſe of the building, or to ſee if he can make his ſpit to light juſt upon ſuch a ſtone, ſtraw, or place, at which he ſhall aime, ſtrictly to charge and command them that they retract this their folly, upon paine of being taken and voted for publique profeſſors of the ſame.</p>
+            <p>
+               <label>X.</label>
+            </p>
+            <p>Whoſoever travelling, ſhall ſtill enquire of thoſe they meet, how far it is to ſuch a place, thinking that by this their asking they will the ſooner be there, to condemne them in the like penalty, enjoyning them for pennance the badneſſe of the way, the Carrier jading of them, and the couſenning of their Hoſteſſes reckoning, not inflicting any grea<g ref="char:EOLhyphen"/>ter puniſhment upon them, upon hopes of their amendment.</p>
+            <p>
+               <label>XI.</label>
+            </p>
+            <p>Whoſoever making water, ſhall goe ſtreaking the walls with their urine, as if they were buſie about ſome curious delineations, or framing ſome antique figures, or ſhall piſſe in the duſt, making I know not what, ſcattering angles and circles, or ſome chinke in a wall, or little hole in the ground, to command that they doe ſo no more, upon paine to bee puniſhed by the Judges, and delivered over to an elder brother, or one of the Antients of the houſe.</p>
+            <p>
+               <label>XII.</label>
+            </p>
+            <p>That whoſoever heares the clocke ſtrike, count not the houres, but aske others what's a clocke, be ſtrictly charged to have an eſpeciall care of their health, becauſe it is an evident demonſtration of a Chole<g ref="char:EOLhyphen"/>ricke kinde of humour; and if they bee poore, and not able to be at the charge of phyſicke; that then one of the Maſters of the Colledge cauſe a warrant to iſſue forth to bring them in, giving order that ſome prepa<g ref="char:EOLhyphen"/>ratives bee provided for them of wilde Cherries, or ſharpe ſummer Oranges, leſt otherwiſe they might runne the danger of lofing their wits, and quickly turne either fooles, of madmen.</p>
+            <p>
+               <label>XIII.</label>
+            </p>
+            <p>They who, ſit at ſhort commons will neglect their victualls to enter<g ref="char:EOLhyphen"/>tain the table with diſcourſe may be ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſured for prating fools, becauſe they take more care to fil other men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eares then their owne bellies: for<g ref="char:EOLhyphen"/>aſmuch as theſe are died in the wooll and come ready dreſt to hand, that
+<pb facs="tcp:125865:4"/> you permit them to be regiſtred <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mong your incurable fooles.</p>
+            <p>
+               <label>XIV.</label>
+            </p>
+            <p>That whoſoever being at a feaſt hath a good ſtomack, and forbeare to fill their bellies, becauſe they would be reckoned for wonderfull little eaters, and afterwards come home to make up their meale at their owne bread and cheeſe; that you will cauſe an eſpeciall care to bee taken for them, as of ſuch who are in the ſeventh degree, and almoſt in their full height to be taken.</p>
+            <p>
+               <label>XV.</label>
+            </p>
+            <p>They who (not being neceſſitated to it) buy the worſt ſort of victu<g ref="char:EOLhyphen"/>alls in the market for ſaving of their purſe, and ſpend the leſſe in their houſes, as if (a Phyſition, and Apothecary, or a Barber Chyrurgion who all the yeare viſit them to cure thoſe diſeaſes which are but by ſuch unholeſome meat) were not deerer by much then the beſt meate in the market, and therefore that you condemne them to a publike diſgrace to be profeſt fooles, forbidding them from henceforth to doe the like, upon paine of being committed over to the Curate or Sexton, or Gravemaker of his or their pariſh, or to be puniſhed more or leſſe ac<g ref="char:EOLhyphen"/>cording to the hurt that ſhall growe thereby.</p>
+            <p>
+               <label>XVI.</label>
+            </p>
+            <p>They who in ſummer nights ſit in a truret to looke about them till their breath ake, be pronounced to bee brothers of your fraternity.</p>
+            <p>
+               <label>XVII.</label>
+            </p>
+            <p>Thoſe who in winter evenings ſtand gaſing on the skies till their feet ake, be declared to be brothers alſo.</p>
+            <p>
+               <label>XVIII.</label>
+            </p>
+            <p>That whoſoever gaping upon the heavens doe from the cloudes of the aire forme to themſelves figures of Serpents, and the ſhapes of Lions, <hi>&amp;c.</hi> to declare and pronounce them to be right fooles.</p>
+            <p>
+               <label>XIX.</label>
+            </p>
+            <p>That whoſoever entertaine themſelves with the aforeſaid baubles, that they may thereby give place in their own houſes, (as ſome wittalls uſe to doe for their owne intereſt and private gaine) that they may ſee the ſigne of Taurus, Aries, or Capricorne, with us a moſt ſoule and diſ<g ref="char:EOLhyphen"/>honeſt caſe, condemne them (though accoumpted of the brotherhood) not to be capable of the priviledges thereof, nor that they be admitted into the Senate houſe, nor have any wax lights alowed them on feſti<g ref="char:EOLhyphen"/>vall daies.</p>
+            <p>
+               <label>XX.</label>
+            </p>
+            <p>They who having their ſhooes duſty, will make them cleane with
+<pb facs="tcp:125865:5"/> their cloakes, or handkercher, to condemne them for neat fooles.</p>
+            <p>
+               <label>XXI.</label>
+            </p>
+            <p>That in caſe any Gentle woman ſhall wipe off the duſt of her velvet ſhooes, with her ſcarſe, ſhall for her great honour be taken for a three<g ref="char:EOLhyphen"/>piled foole.</p>
+            <p>
+               <label>XXII.</label>
+            </p>
+            <p>They who ſay to a friend when they meet him by chance; are you alive Sir? is it poſſible that there ſhould be any ſuch man upon the face of the earth, when he ſees him ſtand juſt before him; that you command that all ſuch may have a ſigne or mark of admiration, ſet upon them, and that during your pleaſure they never goe without it.</p>
+            <p>
+               <label>XXIII.</label>
+            </p>
+            <p>Whoſoever ſhall ſalute him whom hee hath a meane eſteeme of ſay<g ref="char:EOLhyphen"/>ing ſir I kiſſe your hand, and that you conjure this manner of ſpeaking upon puniſhment to be forced to kiſſe the hands of ſome inferiour per<g ref="char:EOLhyphen"/>ſon whoſe hands are full of ſcabs, and ſcurfes or leaproſy, full of durt, with their nailes ready to drop off, looking juſt like Caviare, enough to turn ones ſtomacke to look upon them, and condemned them for fooles.</p>
+            <p>
+               <label>XXIV.</label>
+            </p>
+            <p>That when one enquiring for ſome body at his houſe, is anſwered that he is not within, ſhall reply and ſay is he then gone abroad, that ſuch be condemned as rebels, and contumelious people.</p>
+            <p>
+               <label>XXV.</label>
+            </p>
+            <p>That they who having broken their ſhins, or ſtumbled at ſome block or ſtone, ſhall with a great deale of fleame, and full of choller, kick, or ſtrike the ſaid ſtone or block, be condemned in the ſame penalty.</p>
+            <p>
+               <label>XXVI.</label>
+            </p>
+            <p>That they who have runne their head againſt ſome poſt <hi>&amp;c.</hi> in the da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke returne backe againe to looke upon it at leaſure, with a fixed eye, and a troubled mind; that you command them to ceaſe oft going to looke upon it, upon paine of further puniſhment.</p>
+            <p>
+               <label>XXVII.</label>
+            </p>
+            <p>Whoſoever having blowed their noſe, looke into the ſnot to pry in<g ref="char:EOLhyphen"/>to it, or upon it, as if ſome pearles had dropt from them, to condemne them for brothers of our ſaid foundation, and that ſo oft as they offend in this fault they give an Almes to the hoſpitall of incurable fooles.</p>
+            <p>The reaſon of this mulct is grounded upon this, that others ſhall hereafter do as much for you, and them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
